@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/win-vader/funzles/target/scala-2.11/funzles_2.11-0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funzles[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/win-vader/funzles/target/scala-2.11/classes/funzles[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funzles/Fun$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/win-vader/funzles/target/scala-2.11/classes/funzles/Fun$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funzles/Fun.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/win-vader/funzles/target/scala-2.11/classes/funzles/Fun.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
