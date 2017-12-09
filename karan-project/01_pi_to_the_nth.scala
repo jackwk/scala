@@ -10,7 +10,7 @@ import math.BigDecimal
 
 object PiToTheNth {
   def main(args: Array[String]) {
-    println("Enter number (up to 15)")
+    println("Enter a number (up to 15)")
     val input = readInt()
     println("You entered " + input)
     if (input <= 15) println("Pi is " + BigDecimal(Pi).setScale(input, BigDecimal.RoundingMode.HALF_UP).toDouble) else println("Enter lower number")
